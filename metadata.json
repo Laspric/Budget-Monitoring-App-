@@ -1,0 +1,8 @@
+{
+  "name": "Remix: House Expenses Tracker",
+  "description": "An elegant and comprehensive application to log daily household expenses and monitor monthly and annual trends. Also able to check of daily, weekly, days , monthly, annually, also give Tips to save if every month or week expenses of any particular things is high, make more professional and attractive. With proper app logo",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
